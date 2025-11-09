@@ -4,7 +4,7 @@
 
 // const BASE_URL = 'http://localhost:6100/api';
 
-
-const BASE_URL = "https://velvety-vacherin-cae6bc.netlify.app/api"
+const BASE_URL = 'https://pos-light-backend.onrender.com/api';
+// const BASE_URL = "https://velvety-vacherin-cae6bc.netlify.app/api"
 
 export const apiUrl = BASE_URL; 
